@@ -42,20 +42,13 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Gestor de Férias** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./Gestor-de-Férias/) |
+| **Gestor de Orçamento** | Um site no qual trabalha com gestoria de orçamento. | [Ver Projeto](./Gestor-de-Orçamento/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **QR Code Styling** | Recriação educacional de um gerador de QR Code estilizado, inspirada no site [QR Code Styling](https://qr-code-styling.com/). | [Ver Projeto](./QR-Code-Styling/) |
+ 
  
 ---
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-
-
-Onde encontrar mais badges:
-
-https://ileriayo.github.io/markdown-badges/
-https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 
