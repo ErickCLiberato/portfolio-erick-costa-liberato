@@ -47,6 +47,10 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **QR Code Styling** | Recriação educacional de um gerador de QR Code estilizado, inspirada no site [QR Code Styling](https://qr-code-styling.com/). | [Ver Projeto](./QR-Code-Styling/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Lab-de-Classificação-Visual** | Um classificador de comparação de imagem| [Ver Projeto](./Lab-de-Classificação-Visual/) |
  
  
 ---
