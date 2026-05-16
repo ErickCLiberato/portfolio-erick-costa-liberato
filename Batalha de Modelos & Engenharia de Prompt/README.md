@@ -1,4 +1,4 @@
-# ⚔️ Experiência 3 — Batalha de Modelos & Engenharia de Prompt
+Batalha de Modelos & Engenharia de Prompt
 
 ## 📝 Descrição do Projeto
 
