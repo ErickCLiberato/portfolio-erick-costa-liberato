@@ -37,7 +37,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **QRGenerator** | Gerador de QR Code em tempo real. | [Ver Projeto](./QRGenerator/) |
+| **QRGenerator** | Gerador de QR Code em tempo real. | [Ver Projeto](./QR-Generator/) |
  
 
 | Projeto | Descrição | Link |
