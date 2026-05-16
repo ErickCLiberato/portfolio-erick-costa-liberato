@@ -56,6 +56,10 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **Batalha de Modelos & Engenharia de Prompt** | Batalha de Modelos & Engenharia de Prompt, uma atividade acadêmica voltada ao estudo da criação de prompts estruturados em XML para geração de uma página HTML5 Single Page com CSS3 interno. | [Ver Projeto](./Batalha-de-Modelos-&-Engenharia-de-Prompt/) |
 
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **A-Corrida-Do-Prompt** | A Corrida do Prompt é uma atividade prática voltada ao desenvolvimento de habilidades em Engenharia de Prompt, com foco na criação de comandos mais claros, detalhados e eficientes para modelos de Inteligência Artificial generativa. | [Ver Projeto](./A-Corrida-Do-Prompt |
+
  
 ---
 
