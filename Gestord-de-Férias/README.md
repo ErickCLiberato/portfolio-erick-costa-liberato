@@ -66,5 +66,4 @@ Durante o desenvolvimento do projeto, foi possível praticar conceitos important
 
 1. Acesse o link público da aplicação:
 
-```bash
 [LINK_DO_PROJETO_PUBLICADO](https://erickcliberato.bubbleapps.io/version-test?debug_mode=true)
