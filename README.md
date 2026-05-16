@@ -37,12 +37,12 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **QRGenerator** | Gerador de QR Code em tempo real. | [Ver Projeto](./QR-Generator/) |
+| **QR Generator** | Gerador de QR Code em tempo real. | [Ver Projeto](./QR-Generator/) |
  
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Gestor de Férias** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./Gestor-de-Férias/) |
  
 ---
  
