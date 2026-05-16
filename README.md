@@ -34,12 +34,12 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **QRGenerator** | Gerador de QR Code em tempo real. | [Ver Projeto](./projeto-banco-dados/) |
  
-#### 🤖 Inteligência Artificial
+
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
