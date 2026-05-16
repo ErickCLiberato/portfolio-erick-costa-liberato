@@ -54,7 +54,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
  
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Gestor-de-Férias** | O Gestor de Orçamento é uma aplicação web criada com o objetivo de facilitar o acompanhamento financeiro do usuário de forma simples, visual e prática.. | [Ver Projeto](./Gestor-de-Férias/) |
+| **Batalha de Modelos & Engenharia de Prompt** | Batalha de Modelos & Engenharia de Prompt, uma atividade acadêmica voltada ao estudo da criação de prompts estruturados em XML para geração de uma página HTML5 Single Page com CSS3 interno. | [Ver Projeto](./Batalha de Modelos & Engenharia de Prompt/) |
 
  
 ---
