@@ -52,6 +52,10 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **Lab-de-Classificação-Visual** | Um classificador de comparação de imagem| [Ver Projeto](./Lab-de-Classificação-Visual/) |
  
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Gestor-de-Férias** | O Gestor de Orçamento é uma aplicação web criada com o objetivo de facilitar o acompanhamento financeiro do usuário de forma simples, visual e prática.. | [Ver Projeto](./Gestor-de-Férias/) |
+
  
 ---
 
