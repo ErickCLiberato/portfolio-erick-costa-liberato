@@ -58,7 +58,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **A-Corrida-Do-Prompt** | A Corrida do Prompt é uma atividade prática voltada ao desenvolvimento de habilidades em Engenharia de Prompt, com foco na criação de comandos mais claros, detalhados e eficientes para modelos de Inteligência Artificial generativa. | [Ver Projeto](./A-Corrida-Do-Prompt |
+| **A-Corrida-Do-Prompt** | A Corrida do Prompt é uma atividade prática voltada ao desenvolvimento de habilidades em Engenharia de Prompt, com foco na criação de comandos mais claros, detalhados e eficientes para modelos de Inteligência Artificial generativa. | [Ver Projeto](./A-Corrida-Do-Prompt/) |
 
  
 ---
